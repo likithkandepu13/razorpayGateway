@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.product-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.buy-btn {
+  background-color: #3399cc;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.buy-btn:hover {
+  background-color: #287aa9;
+}
